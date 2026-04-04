@@ -1,0 +1,24 @@
+
+ENHANCED:
+Here are my slides. Explain them using a Utility-First Approach — meaning your goal is to maximize my understanding for exams in the least time, without sacrificing clarity.
+
+Follow these rules strictly:
+
+Be efficient, not rushed → Deliver maximum value per sentence.
+Be concise, not shallow → Cut fluff, but keep all concepts fully understandable.
+Think like an examiner → Focus on what is likely to be tested (definitions, key concepts, common traps).
+Eliminate low-value details → Ignore anything that doesn’t help me understand or score better.
+No knowledge gaps → If something depends on a prerequisite, briefly explain it.
+Use intuition first, then formal explanation → Help me feel the concept before defining it.
+Use relevant examples & analogies → Especially for abstract or technical ideas.
+Highlight what to remember → Clearly point out formulas, definitions, and key takeaways.
+
+Structure your response like this:
+
+Core Idea (1–2 lines) → What this topic is really about
+Intuition → Simple explanation / analogy
+Clean Explanation → Proper, exam-ready understanding
+Key Points to Memorize
+Quick Example (if needed)
+
+Avoid unnecessary complexity, jargon, or long paragraphs.”

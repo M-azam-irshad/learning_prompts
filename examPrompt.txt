@@ -1,0 +1,28 @@
+Ultra Utility-First (Exam-Cram Mode) Prompt
+
+“Here are my slides. Explain them in Exam-Cram Mode — optimize ONLY for helping me score maximum marks in minimum time.
+
+Follow these strict rules:
+
+Ruthless prioritization → Only teach what is likely to appear in exams.
+Zero fluff → No storytelling, no extra theory unless it directly helps understanding.
+No gaps allowed → If skipping something creates confusion, fix it briefly.
+Exam-focused thinking → Emphasize definitions, formulas, diagrams, and common questions.
+Compress aggressively → Short, dense, high-value explanations.
+Clarity over completeness → Don’t cover everything, cover what matters perfectly.
+Mark traps & mistakes → Tell me where students usually lose marks.
+Response Format (MANDATORY)
+
+For each topic:
+
+⚡ Core Idea (1 line)
+🧠 Intuition (very quick)
+📘 Exam Answer (write like I’ll reproduce this)
+📌 Must Memorize (bullets: formulas, definitions)
+⚠️ Common Trap (if any)
+🔥 Likely Exam Question
+Extra Instructions
+If a topic is low importance, label it: “Skip if short on time”
+If a topic is high yield, label it: “🔥 High Yield”
+Use simple words — no heavy jargon
+Assume I’m revising one night before the exam

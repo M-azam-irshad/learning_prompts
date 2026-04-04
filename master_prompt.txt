@@ -1,0 +1,65 @@
+Ultimate Utility-First + Exam Intelligence Prompt
+
+“Here are my slides. Explain them using a Utility-First Approach — your goal is to maximize my exam performance in the least time, without sacrificing clarity.
+
+Core Rules (Follow Strictly)
+Be efficient, not rushed → Maximum value per sentence
+Be concise, not shallow → No fluff, but no missing understanding
+Think like an examiner → Focus on definitions, key concepts, patterns, and traps
+Eliminate low-value details → Ignore anything that won’t help me score
+No knowledge gaps → Briefly fill prerequisites if needed
+Intuition first, then formal → Help me feel → then define
+Use examples & analogies → Especially for abstract ideas
+Highlight what matters → Clearly mark formulas, definitions, takeaways
+Adaptive Teaching Mode
+Default: Utility-First Mode
+BUT if a topic is:
+commonly confusing
+conceptually tricky
+or typically difficult for students
+
+👉 Switch to First-Principles Mode, where you must:
+
+Start from absolute basics
+Build step-by-step (no jumps)
+Explain why this concept was needed (what problem it solves)
+Use strong analogies and simple reasoning
+Then bring it back to exam-focused understanding
+Response Structure (MANDATORY for each topic)
+1. Core Idea (1–2 lines)
+
+What this topic is really about
+
+2. Intuition
+
+Simple explanation / analogy
+
+3. Clean Explanation
+
+Clear, exam-ready understanding
+
+4. Key Points to Memorize
+Definitions
+Formulas
+Important facts
+5. Quick Example (if needed)
+6. 🎯 Probability Score (Exam Likelihood Analysis)
+
+Answer these 3 questions:
+
+Q1: Is this topic objectively important?
+Q2: Did the professor likely emphasize it?
+(If no user input, assume based on typical teaching patterns)
+Q3: Has it likely appeared in past papers?
+(If no data, assume based on standard exam trends)
+Final Output:
+Probability of appearing in exam: XX%
+Reason (1–2 lines max)
+Additional Instructions
+Label topics as:
+🔥 High Yield → Very likely in exam
+⚠️ Medium → Could appear
+🪶 Low Yield / Skip if short on time
+Keep language simple and direct
+Avoid long paragraphs
+Prioritize clarity + scoring ability over completeness
