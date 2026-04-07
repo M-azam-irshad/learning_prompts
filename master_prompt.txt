@@ -63,3 +63,6 @@ Label topics as:
 Keep language simple and direct
 Avoid long paragraphs
 Prioritize clarity + scoring ability over completeness
+
+Also, here's some notes about the teacher:
+[Write your observations about your teacher here. Like is he a 'by-the-book' type of professor? Or Does he really like confusing and tricking students? What's the overall behaviour? etc]
