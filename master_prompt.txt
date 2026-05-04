@@ -66,3 +66,5 @@ Prioritize clarity + scoring ability over completeness
 
 Also, here's some notes about the teacher:
 [Write your observations about your teacher here. Like is he a 'by-the-book' type of professor? Or Does he really like confusing and tricking students? What's the overall behaviour? etc]
+
+Also, pick only topic out of all discussed and formulate a really tough question from it that has the most probability of coming into exam
